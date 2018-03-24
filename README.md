@@ -2,4 +2,4 @@
 Smart Home Devices Control
 
 
-A Web App to create a REST API using Nodejs, Express and MongoDB. 
+REST API interface which shows Smart Home devices, its information and status using Nodejs, Express and MongoDB. 
